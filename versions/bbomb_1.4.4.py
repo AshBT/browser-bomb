@@ -43,4 +43,4 @@ time.sleep(10)
 for word in ['spaming'] * snum:
     webbrowser.open(hlink+websi)
     time.sleep(0.4)
-    
+     
