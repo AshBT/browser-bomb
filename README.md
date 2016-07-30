@@ -1,6 +1,6 @@
 # browser-bomb
 
-Browser Bomb is a tool that spams a site for a select amount of times by you.
+Browser Bomb is a tool that spams a website that you choose and opens it for how many times you chose.
 
 ###Here are some screenshots of browser-bomb in action.
 
