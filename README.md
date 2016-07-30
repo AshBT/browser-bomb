@@ -16,7 +16,7 @@ Browser Bomb is a tool that spams a website that you choose and opens it for how
 ### Requirements
 
 * Python 2.7+
-* colorama 0.3.7
+* colorama 0.3.7 (Not needed for the minimal version)
  
 Download coloram for python here:
 https://pypi.python.org/pypi/colorama
