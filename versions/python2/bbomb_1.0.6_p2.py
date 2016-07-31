@@ -47,8 +47,7 @@ while True:
         #try again
         continue
     else:
-        #num successfully parsed!
-        #exit the loop.
+        #exit loop
         break
 time.sleep(2)
 for word in ['spaming'] * num:
