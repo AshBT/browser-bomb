@@ -20,3 +20,7 @@ Browser Bomb is a tool that spams a website that you choose and opens it for how
  
 Download coloram for python here:
 https://pypi.python.org/pypi/colorama
+
+###Clone repository
+If you want to clone the browser bomb repository then execute this command:
+* git clone https://github.com/JackCDK/browser-bomb && cd browser-bomb
