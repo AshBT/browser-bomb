@@ -23,4 +23,5 @@ https://pypi.python.org/pypi/colorama
 
 ###Clone repository
 If you want to clone the browser bomb repository then execute this command:
-* git clone https://github.com/JackCDK/browser-bomb && cd browser-bomb
+
+    git clone https://github.com/JackCDK/browser-bomb && cd browser-bomb
