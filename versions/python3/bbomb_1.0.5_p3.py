@@ -9,10 +9,6 @@ hlink = "http://"
 websi = "www.google.com" 
 num = 1
 
-#try: input = raw_input
-#except NameError: pass
-
-
 t1 = "===========[python3 edition]========="
 t2 = "   ___         ___            _      "
 t3 = "  | _ )  ___  | _ ) ___ _ __ | |__   "
