@@ -5,13 +5,13 @@ Browser Bomb is a tool that spams a website that you choose and opens it for how
 ###Here are some screenshots of browser-bomb in action.
 
 #####Main menu
-![Main Menu](http://jackcdk.comxa.com/pics/bbomb_newspam.png)
+![Main Menu](https://github.com/JackCDK/browser-bomb/blob/master/images/bbomb_newspam.png)
 
 #####URL Selection
-![URL select](http://jackcdk.comxa.com/pics/bbomb_newrel.png)
+![URL select](https://github.com/JackCDK/browser-bomb/blob/master/images/bbomb_newrel.png)
 
 #####Amount of times you want it to open
-![Spam number](http://jackcdk.comxa.com/pics/bbomb_newsec.png)
+![Spam number](https://github.com/JackCDK/browser-bomb/blob/master/images/bbomb_newsec.png)
 
 ### Requirements
 
