@@ -16,7 +16,6 @@ Browser Bomb is a tool that spams a website that you choose and opens it for how
 ### Requirements
 
 * Python 2
-or
 * python 3
 
 ###Clone repository
